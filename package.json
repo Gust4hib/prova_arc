@@ -1,0 +1,23 @@
+{
+  "name": "prova_arc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gust4hib/prova_arc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gust4hib/prova_arc/issues"
+  },
+  "homepage": "https://github.com/Gust4hib/prova_arc#readme",
+  "devDependencies": {
+    "cypress": "^14.5.2"
+  }
+}
